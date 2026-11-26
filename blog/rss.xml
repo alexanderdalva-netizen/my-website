@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="rss.xsl"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>Alexander's Microsite Blog</title>
+        <title>Alexander's Fitness Microsite Blog</title>
         <link>https://alexanderdalva-netizen.github.io/my-website/blog</link>
-        <description>Alexander's Microsite Blog</description>
+        <description>Alexander's Fitness Microsite Blog</description>
         <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
@@ -75,17 +75,15 @@
             <category>Docusaurus</category>
         </item>
         <item>
-            <title><![CDATA[First Blog Post]]></title>
+            <title><![CDATA[Alexander Fitness Blog]]></title>
             <link>https://alexanderdalva-netizen.github.io/my-website/blog/first-blog-post</link>
             <guid>https://alexanderdalva-netizen.github.io/my-website/blog/first-blog-post</guid>
             <pubDate>Tue, 28 May 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[{/ truncate /}]]></description>
             <content:encoded><![CDATA[
-<p>Plugin Demonstration
-This blog post demonstrates the Docusaurus Blog plugin integrated into Alexander's Microsite.</p>
 <p>The Blog plugin enables me to organize and publish content through the Blog section of the website.</p>]]></content:encoded>
-            <category>Hola</category>
-            <category>Docusaurus</category>
+            <category>Fitness</category>
+            <category>Health</category>
         </item>
     </channel>
 </rss>
