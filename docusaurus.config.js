@@ -10,8 +10,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Alexander's Microsite",
-  tagline: 'Dinosaurs are cool',
+  title: "Alexander's Fitness Microsite",
+  tagline: 'Fitness that fits your life',
   favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -104,7 +104,7 @@ const config = {
     type: 'docSidebar',
     sidebarId: 'tutorialSidebar',
     position: 'left',
-    label: 'Tutorial',
+    label: 'Fitness',
   },
   {to: '/blog', label: 'Blog', position: 'left'},
           {

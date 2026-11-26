@@ -7,18 +7,18 @@ sidebar_position: 3
 
 ## Get in Touch
 
-If you have any questions, feedback, or suggestions, feel free to contact us.
+If you have any questions, feedback or need assistance, please feel free to contact us.
 
 ### Email
 
-info@example.com
+alexander@example.com
 
 ### Website
 
-https://www.example.com
+https://www.alexanderexample.com
 
 ### Additional Resources
 
-- [Docusaurus Documentation](https://docusaurus.io/docs)
-- [Markdown Guide](https://www.markdownguide.org/)
+- [Calisthenics Training](https://app.thenx.com/training)
+- [Beginner Calishthenics Exercises](https://ca.gymshark.com/blog/article/calisthenic-workouts-for-beginners)
 ---

@@ -16,15 +16,15 @@ function HomepageHeader() {
           {siteConfig.title}
         </Heading>
         <p className="hero__intro">
-          Welcome to my microsite! This website is designed to introduce
-          its main topic, share useful information, and provide visitors
-          with resources to explore and learn more.
+          Welcome to my fitness microsite! This website is designed to share
+          fitness tips, useful information and provide visitors
+          with resources to stay healthy and fit.
           </p>
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/intro">
-            Docusaurus Tutorial - 5min ⏱️
+            to="/docs/about">
+              About Me
           </Link>
         </div>
       </div>

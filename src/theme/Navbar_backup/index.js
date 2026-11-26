@@ -6,13 +6,13 @@ export default function NavbarWrapper(props) {
     <>
       <div
         style={{
-          backgroundColor: '#2563eb',
+          backgroundColor: '#256eb',
           color: 'white',
           textAlign: 'center',
           padding: '8px',
           fontWeight: 'bold',
         }}>
-        Welcome to Alexander's Microsite
+        Welcome to Alexander's Fitness Microsite
       </div>
 
       <Navbar {...props} />
