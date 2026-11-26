@@ -17,3 +17,13 @@ hola:
   label: Hola
   permalink: /hola
   description: Hola tag description
+
+fitness:
+  label: Fitness
+  permalink: /fitness
+  description: Fitness tag
+
+health:
+  label: Health
+  permalink: /health
+  description: Health tag
