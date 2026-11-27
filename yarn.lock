@@ -3115,9 +3115,9 @@
   integrity sha512-GsCCIZDE/p3i96vtEqx+7dBUGXrc7zeSK3wwPHIaRThS+9OhWIXRqzs4d6k1SVU8g91DrNRWxWUGhp5KXQb2VA==
 
 "@types/node@*":
-  version "26.6.10"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-26.6.10.tgz#fddc9af08f561789c54e49bc6785177cf516c6a2"
-  integrity sha512-WJuPHoGB8WNQuTksNF7SOQpnH02PXeDYz4iueWbBT6/hTWnShY5F3T/hoJA3fY9+uYReDZ7pyTKKx83jQa7aGg==
+  version "26.6.11"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-26.6.11.tgz#17799a1ddc1edfc99222a906a0952b3c9be8794a"
+  integrity sha512-uUyQ2XLEz+EXh34lmS3GhKrkqn/8FU7KUiKRpk347At2bmnMVWss45yz8b4FG/tUtmV1tV/+TVkITItPROyeeQ==
   dependencies:
     undici-types "~8.9.0"
 
@@ -3651,9 +3651,9 @@ balanced-match@^1.0.0:
   integrity sha512-3oSeUO0TMV67hN1AmbXsK4yaqU7tjiHlbxRDZOpH0KW9+CeX4bRAaX0Anxt0tx2MrpRpWwQaPwIlISEJhYU5Pw==
 
 baseline-browser-mapping@^2.11.37:
-  version "2.11.39"
-  resolved "https://registry.yarnpkg.com/baseline-browser-mapping/-/baseline-browser-mapping-2.11.39.tgz#4e99c4845e0c2100b6b1ef189bce3643d11e604e"
-  integrity sha512-Q9buOYhr2ggrEZpImICecZTJHCCd8yXkRUokFlUEQ8uiD6oP82F4W4jWnhOHZYV+wlvrC51V7Wy0ULyWjil5Wg==
+  version "2.11.40"
+  resolved "https://registry.yarnpkg.com/baseline-browser-mapping/-/baseline-browser-mapping-2.11.40.tgz#a7ca6570664b554a87e62572e39b45b9623d1206"
+  integrity sha512-WJhaQ3kW5+5BpOduI64ewvykhCyK/IHHG5jCIzivmW2nkYPRowUjs0DbBXY4CAr1LLrN7QEzZGL9727aXH9sJA==
 
 batch@0.6.1:
   version "0.6.1"
@@ -4634,9 +4634,9 @@ ee-first@1.1.1:
   integrity sha512-WMwm9LhRUo+WUaRN+vRuETqG89IgZphVSNkdFgeb6sS/E4OrDIN7t48CAewSHXc6C8lefD8KKfr5vY61brQlow==
 
 electron-to-chromium@^1.5.486:
-  version "1.5.494"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.5.494.tgz#395edb7b233beebe025db41cbf7a1194beb28ea3"
-  integrity sha512-Tph7ohL4Xc0ft3DXElYEIVTmPI3H0MtPCTdgtz5AwWGZG6q+vMiT3IzJ3RJX/HJQ8pYzeimQyvi6SsBTOS0nyQ==
+  version "1.5.495"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.5.495.tgz#4a89f4ce124303d5e0fcedbf75653ebb98195010"
+  integrity sha512-dZcmtNbDI5oeT9uP9Z+D7h/H5C1mvBewDTLgZgo9WgyPmqOXSt2cmoCK99evPygUOn9lyXZ4w0Eb8APrkBjqBA==
 
 emoji-regex@^8.0.0:
   version "8.0.0"
@@ -5554,9 +5554,9 @@ ignore@^5.2.0, ignore@^5.2.4:
   integrity sha512-hsBTNUqQTDwkWtcdYI2i06Y/nUBEsNEDJKjWdigLvegy8kDuJAS8uRlpkkcQpyEXL0Z/pjDy5HBmMjRCJ2gq+g==
 
 image-size@^2.0.2:
-  version "2.1.0"
-  resolved "https://registry.yarnpkg.com/image-size/-/image-size-2.1.0.tgz#744768cd32be19583c5adb7491e265ccca03ecc8"
-  integrity sha512-6Dbisa46RsgeAh3TMSFL2i8+uIFG+/LRmz6Q2oscSJJvXo1sOw3EgNO4M8jPl1P+gR1atJLDPrpclX4IHz63sA==
+  version "2.2.0"
+  resolved "https://registry.yarnpkg.com/image-size/-/image-size-2.2.0.tgz#7a1844448e48deee63aa92054860567175000fdd"
+  integrity sha512-93QTtmEv0UD26RTJfmxQvWzhlauWO1TizNPjCumqzlACXYmI7TlwRWWT2+M4at7kZwnj+WkMOW9XKI76eX0dWw==
 
 import-fresh@^3.3.0:
   version "3.3.1"
@@ -6983,9 +6983,9 @@ node-emoji@^2.1.0:
     skin-tone "^2.0.0"
 
 node-releases@^2.0.64:
-  version "2.0.65"
-  resolved "https://registry.yarnpkg.com/node-releases/-/node-releases-2.0.65.tgz#8937f0f215e572b35c1dc83f8c6ec61cafccb9f8"
-  integrity sha512-PfvofsGQ+MiOQIPkX9fU8ELUWmy5zL74CdQaph/ismKszfFkfwXaw0cGiwbwym2hT9k5+mdyl8O5WQ1MD8EHmA==
+  version "2.0.66"
+  resolved "https://registry.yarnpkg.com/node-releases/-/node-releases-2.0.66.tgz#33d4146658040a2b03da853f7243492569eda69b"
+  integrity sha512-uSMWN9/XtWzxaE0d9ZNHe00Hda6028AXH3WRjTsK71neiPCSeL5nGSD9MXTQX/6Qx0k7Op1AyyinmIUw9fBzrg==
 
 normalize-path@^3.0.0, normalize-path@~3.0.0:
   version "3.0.0"
@@ -8412,9 +8412,9 @@ reusify@^1.0.4:
   integrity sha512-g6QUff04oZpHs0eG5p83rFLhHeV00ug/Yf9nZM6fLeUrPguBTkTQOdpAWWspMh55TZfVQDPaN3NQJfbVRAxdIw==
 
 rtlcss@^4.1.0:
-  version "4.3.0"
-  resolved "https://registry.yarnpkg.com/rtlcss/-/rtlcss-4.3.0.tgz#f8efd4d5b64f640ec4af8fa25b65bacd9e07cc97"
-  integrity sha512-FI+pHEn7Wc4NqKXMXFM+VAYKEj/mRIcW4h24YVwVtyjI+EqGrLc2Hx/Ny0lrZ21cBWU2goLy36eqMcNj3AQJig==
+  version "4.4.0"
+  resolved "https://registry.yarnpkg.com/rtlcss/-/rtlcss-4.4.0.tgz#d43add4938eb7ed5dbe4aab476d064c086baa90e"
+  integrity sha512-e0maE9cqS/iSg9WCKj7R66KmpRLUo2AK/1pbHs5y2Omlk/YBPQ31RhxpATQVoPgORr1Ke36zALoJwBF7uxZdzg==
   dependencies:
     escalade "^3.1.1"
     picocolors "^1.0.0"
@@ -8828,9 +8828,9 @@ string-width@^5.0.1, string-width@^5.1.2:
     strip-ansi "^7.0.1"
 
 string_decoder@^1.1.1:
-  version "1.3.0"
-  resolved "https://registry.yarnpkg.com/string_decoder/-/string_decoder-1.3.0.tgz#42f114594a46cf1a8e30b0a84f56c78c3edac21e"
-  integrity sha512-hkRX8U1WjJFd8LsDJ2yQ/wWWxaopEsABU1XfkM8A+j0+85JAGppt16cr1Whg6KIbb4okU6Mql6BOj+uup/wKeA==
+  version "1.4.0"
+  resolved "https://registry.yarnpkg.com/string_decoder/-/string_decoder-1.4.0.tgz#aaddaac5179c6cf72f840d82d01862ea1d57f5c4"
+  integrity sha512-r8azg21Y67ckRmeG0hHol5CeDXMs4ZFkFT6eXMO39hX7khvJcopBcYTCeWZ0rQXkMoPh8lVdbjmsOMGL8krxRQ==
   dependencies:
     safe-buffer "~5.2.0"
 
@@ -9439,9 +9439,9 @@ webpackbar@^7.0.0:
     std-env "^3.7.0"
 
 websocket-driver@>=0.5.1:
-  version "0.8.0"
-  resolved "https://registry.yarnpkg.com/websocket-driver/-/websocket-driver-0.8.0.tgz#6701084cbf675d1d052bee12e5a7bdfa10dbb3f6"
-  integrity sha512-upjjWCo/1ZysdZ3rMvXXUDk9PmbYne+wSD1t78HAvIvjmR+avda0MsLWhtkn5PW8Ht34EXhhWF6OseWJ8nTGlg==
+  version "0.8.1"
+  resolved "https://registry.yarnpkg.com/websocket-driver/-/websocket-driver-0.8.1.tgz#8f0032e8bed906f190a31ae13ecc68bc4b669073"
+  integrity sha512-Pp2Dio/XE6xCI5if9noFTRpnFsHI6g/bC2IPzKWWtjHodk9v8v8xOHE/XQl64fLiNuJlDSK7gsFdVB+W08Z7Zw==
   dependencies:
     http-parser-js ">=0.5.1"
     safe-buffer ">=5.1.0"
@@ -9457,9 +9457,9 @@ websocket-driver@^0.7.4:
     websocket-extensions ">=0.1.1"
 
 websocket-extensions@>=0.1.1, websocket-extensions@>=0.2.0:
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/websocket-extensions/-/websocket-extensions-0.2.0.tgz#9b0dbdfd847e9dc2755854924d1c79025b800001"
-  integrity sha512-vQaTTgDDgwlrreIJAprknlnvEtZMMxfLqoxyQYnWO8dgcz2qIzQNysCpwOekz8kqLvzrZ0dcaL9hejZ+2AszCA==
+  version "0.3.0"
+  resolved "https://registry.yarnpkg.com/websocket-extensions/-/websocket-extensions-0.3.0.tgz#c91b2cf99bacff7cc520819673b660f138d5647b"
+  integrity sha512-BPYQfFy0QTIibncavBZWTnHn1SpJzq1f+2u6qPN6SnoaTwKNV5U/PKhgddcmGdPZuPnXXw41AYi0u8BqOkbEbA==
 
 which@^2.0.1:
   version "2.0.2"
