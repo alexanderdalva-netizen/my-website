@@ -49,7 +49,8 @@
         <author>
             <name>Alexander</name>
         </author>
-        <category label="Docusaurus" term="Docusaurus"/>
+        <category label="Fitness" term="Fitness"/>
+        <category label="Health" term="Health"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Long Blog Post]]></title>
